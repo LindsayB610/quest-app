@@ -1,4 +1,4 @@
-# Pocket Phonics Quest — Detailed Project Plan
+# Pokemon Adventure Quest — Detailed Project Plan
 
 **Version:** v1.0  
 **Platforms:** Chrome on macOS (deployed on Netlify at quest.lindsaybrunner.com)  
@@ -57,7 +57,7 @@
 
 ## 💡 Executive Summary
 
-This document outlines the comprehensive plan and effort estimation for building **Pocket Phonics Quest**, a speech-enabled phonics reading game that blends systematic phonics practice with a light monster-collecting adventure.
+This document outlines the comprehensive plan and effort estimation for building **Pokemon Adventure Quest**, a speech-enabled phonics reading game that blends systematic phonics practice with a light monster-collecting adventure.
 
 **Key Finding**: Using Material UI as the component library and established Pokémon community components (react-pokemon, PokéAPI) can reduce development effort by **30-40%** compared to building all UI components from scratch.
 
@@ -2216,7 +2216,7 @@ const stageProgress = useMemo(() => {
 
 ### Resources
 
-- [PRD: Pocket Phonics Quest](./chatgpt_project_overview.md)
+- [PRD: Pokemon Adventure Quest](./chatgpt_project_overview.md)
 - [Pokémon Graphics Integration Guide](./pokemon_graphics_integration.md)
 - [Material UI Documentation](https://mui.com/)
 - [Zustand Documentation](https://zustand-demo.pmnd.rs/)
@@ -2301,5 +2301,5 @@ export default defineConfig({
 
 For questions or updates to this plan, please document changes in the changelog.
 
-© 2025 Pocket Phonics Quest. Built for quest.lindsaybrunner.com.
+© 2025 Pokemon Adventure Quest. Built for quest.lindsaybrunner.com.
 
